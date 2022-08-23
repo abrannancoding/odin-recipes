@@ -1,0 +1,28 @@
+* {
+    background-color: khaki;
+}
+h1 {
+    text-align: center;
+    color: firebrick;
+
+}
+h2,h3 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkred;
+}
+img {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+.exp {
+    color: brown;
+}
+ul,ol {
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+    color: chocolate;
+}
+
